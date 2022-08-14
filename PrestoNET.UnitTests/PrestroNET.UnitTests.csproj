@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PrestoClient\PrestoClient.csproj" />
+    <ProjectReference Include="..\PrestroNET\PrestoNET.csproj" />
   </ItemGroup>
 
 </Project>

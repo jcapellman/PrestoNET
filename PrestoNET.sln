@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{908B7EAB-6D98-41B8-A11B-8C7513A60C7A}"
+	ProjectSection(SolutionItems) = preProject
+		ApacheAcknowledgement.txt = ApacheAcknowledgement.txt
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrestoNET", "PrestroNET\PrestoNET.csproj", "{461C4EBD-A2E1-451D-9CCB-74C4B177F54C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrestroNET.UnitTests", "PrestoNET.UnitTests\PrestroNET.UnitTests.csproj", "{70C2156B-F2C3-4E1B-A8A8-5E7BB1ED932E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461C4EBD-A2E1-451D-9CCB-74C4B177F54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461C4EBD-A2E1-451D-9CCB-74C4B177F54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461C4EBD-A2E1-451D-9CCB-74C4B177F54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461C4EBD-A2E1-451D-9CCB-74C4B177F54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C2156B-F2C3-4E1B-A8A8-5E7BB1ED932E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C2156B-F2C3-4E1B-A8A8-5E7BB1ED932E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C2156B-F2C3-4E1B-A8A8-5E7BB1ED932E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C2156B-F2C3-4E1B-A8A8-5E7BB1ED932E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA83C0F3-6624-4BBD-A5FD-5C2DF99BF466}
+	EndGlobalSection
+EndGlobal
