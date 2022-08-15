@@ -2,25 +2,23 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <AssemblyName>PrestoClient</AssemblyName>
+    <AssemblyName>PrestoNET</AssemblyName>
     <RootNamespace>BAMCIS.PrestoClient</RootNamespace>
-    <Version>2022.8.0</Version>
+    <Version>2022.8.1</Version>
     <Authors>Michael Haken,Jarred Capellman</Authors>
     <Company>bamcis.io, Jarred Capellman</Company>
     <PackageReleaseNotes>This is a presto db .NET client for Presto version 0.198.</PackageReleaseNotes>
     <Copyright>2021 bamcis.io, 2022 Jarred Capellman</Copyright>
-    <PackageProjectUrl>https://github.com/jcapellman/PrestoClient</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/jcapellman/PrestoNET</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageTags>Presto Prestodb</PackageTags>
-    <RepositoryUrl>https://github.com/jcapellman/PrestoClient</RepositoryUrl>
+    <RepositoryUrl>https://github.com/jcapellman/PrestoNET</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <Description>A .NET 6 client for Presto.</Description>
     <PackageLicenseUrl></PackageLicenseUrl>
-    <AssemblyVersion>2022.8.0</AssemblyVersion>
-    <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>prestoclient.snk</AssemblyOriginatorKeyFile>
-    <FileVersion>2022.8.0</FileVersion>
+    <AssemblyVersion>2022.8.1</AssemblyVersion>
+    <FileVersion>2022.8.1</FileVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageId>PrestoNET</PackageId>
     <Product>PrestoNET</Product>
